@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+ENV/
+
+# Environment variables file
+*.env
+.env.*
+
+# Flask specific
+instance/
+*.db
+*.sqlite3
+
+# Logs
+*.log
+logs/
+*.pid
+
+# Cache
+*.cache
+*.pyc
+*.pyo
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.iml
+
+# MacOS files
+.DS_Store
+
+# Docker
+*.swp
+.dockerignore
+docker-compose.override.yml
+
+# Test results
+coverage/
+.tox/
+.nox/
+.pytest_cache/
+htmlcov/
+*.cover
+
+# Backup files
+*.bak
+*.tmp
+*.swp
+*.swo
+*~
