@@ -22,7 +22,7 @@
 ### Запуск с использованием Docker
 1. **Клонируйте репозиторий:**
     ```bash
-    git clone <ссылка-на-ваш-репозиторий>
+    git clone git@github.com:Chelsea91117/form_master.git
     cd form_master
     ```
 2. **Соберите и запустите контейнеры:**
